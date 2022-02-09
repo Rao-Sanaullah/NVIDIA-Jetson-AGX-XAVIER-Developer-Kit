@@ -11,6 +11,8 @@ Installed SDK Manager (Download Link: https://developer.nvidia.com/nvidia-sdk-ma
 
 (https://github.com/Rao-Sanaullah/NVIDIA-Jetson-AGX-XAVIER-Developer-Kit/blob/53b89c5360583671daa4c1d609b03886bbbaddde/Jetson.pdf)
 
+https://github.com/Rao-Sanaullah/NVIDIA-Jetson-AGX-XAVIER-Developer-Kit/blob/39079f7fec3498e2edcb89cb5ec77d691d95da01/0001.jpg
+
 For any help, please contact
 
 
